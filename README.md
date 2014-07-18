@@ -1,4 +1,4 @@
-rpms
+RPMs
 ====
 
 RPM packages for Fedora
