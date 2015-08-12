@@ -3,7 +3,9 @@ RPMs
 
 **ABANDONED**
 
-The SSR package is maintained in a [COPR repository](https://copr.fedoraproject.org/coprs/nickth/ssr/). This github repo won't updated anymore. 
+The COPR repostirory has been deleted. Read [here](https://github.com/MaartenBaert/ssr/issues/359) why. 
+
+<del>The SSR package is maintained in a [COPR repository](https://copr.fedoraproject.org/coprs/nickth/ssr/). This github repo won't updated anymore.
 
 <del>RPM packages for Fedora
 
